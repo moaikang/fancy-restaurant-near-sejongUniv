@@ -16,7 +16,7 @@ React에서 외부 Script 형식의 API를 사용하는 것을 경험하기 위�
 
 ### TechSet
 Language: Javascript ES6, JSX   
-Library: React, Redux, Redux-Thunk, Styled-Components, Kakao Map API 
+Library: React, Redux, Styled-Components, Kakao Map API 
 
 ### Comments
 
