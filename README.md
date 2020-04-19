@@ -1,5 +1,6 @@
 # 세종 맛집 프로젝트   
 
+## 모바일 뷰만 완성되었습니다. PC버전 개발은 추후 진행될 계획입니다.
 ### [결과물 바로가기](http://sejong-fancy-food.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### 학습내용
