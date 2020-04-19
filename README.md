@@ -1,6 +1,6 @@
-# 창의학기제 웹 프론트엔드(5주차)
+# 세종 맛집 프로젝트   
 
-### [결과물](http://sejong-fancy-food.s3-website.ap-northeast-2.amazonaws.com/)
+### [결과물 바로가기](http://sejong-fancy-food.s3-website.ap-northeast-2.amazonaws.com/)
 
 ### 학습내용
 #### 지금까지 한 내용의 전체적인 복습   
